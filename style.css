@@ -5,15 +5,16 @@
 }
 
 .thumb{
-	width: 120px;
-	height:120px;
+	width: 140px;
+	height:140px;
 	padding: 20px;
 
 }
 .imagetext{
 	
-	font-size: 16px;
-	padding:10px;
+	font-size: 18px;
+	color:dark-grey;
+	padding-left:150px;
 }
 .pictures{
 	width:600px;

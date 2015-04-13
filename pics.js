@@ -2,8 +2,8 @@
 
 
 // lets put json data into cats variable so we can easily iterate trough it
-var cats = {images: [{url : "img/cat1.jpg", text : "kitten text 1"}, {url : "img/cat2.jpg", text: "kitten text 2"},
-{url: "img/cat3.jpg", text:"kitten text 3"}, {url: "img/cat4.jpg", text:"kitten text 4"},{url: "img/cat5.jpg", text:"kitten text 5"},{url: "img/cat6.jpg", text:"kitten text 6"} ]}
+var cats = {images: [{url : "img/cat1.jpg", text : "Kitten text 1"}, {url : "img/cat2.jpg", text: "Kitten text 2"},
+{url: "img/cat3.jpg", text:"Kitten text 3"}, {url: "img/cat4.jpg", text:"Kitten text 4"},{url: "img/cat5.jpg", text:"Kitten text 5"},{url: "img/cat6.jpg", text:"Kitten text 6"} ]}
 
 // initial cat picture, cat number 0
 $("#mainpic" ).append('<img src="' + cats.images[0].url + '"/>');

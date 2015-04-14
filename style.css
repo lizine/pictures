@@ -1,7 +1,8 @@
 .mainpicture{
-	height:300px;
+	height:400px;
 	padding-bottom:15px;
 	margin-bottom:60px;
+
 }
 
 .thumb{
@@ -9,6 +10,7 @@
 	height:140px;
 	margin: 20px;
 	cursor : pointer;
+	
 
 }
 .imagetext{
